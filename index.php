@@ -1,4 +1,7 @@
 <?php
+echo zkouska
+?>
+<?php
 copy("https://raw.githubusercontent.com/bedjan/web/main/Parsedown.php", "Parsedown.php");
 copy("https://raw.githubusercontent.com/bedjan/web/main/obsah.php", "obsah.php");
 ?>
